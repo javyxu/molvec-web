@@ -1,0 +1,17 @@
+
+/target
+/.idea
+/out
+/logs
+/work
+*.iml
+/project/target
+
+*.class
+*.cache
+
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
