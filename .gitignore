@@ -10,7 +10,6 @@
 *.class
 *.cache
 
-*.jar
 *.war
 *.zip
 *.rar

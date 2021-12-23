@@ -1,4 +1,3 @@
-# FROM ubuntu:18.04
 FROM harbor.atompai.com/xarc-algorithm/osra:2.1.3
 
 WORKDIR /molvec-web
