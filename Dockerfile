@@ -1,4 +1,4 @@
-FROM harbor.atompai.com/xarc-algorithm/osra:2.1.3
+FROM xujavy/osra:2.1.3
 
 WORKDIR /molvec-web
 
